@@ -3,7 +3,6 @@ require(`dotenv`).config({
 })
 
 module.exports = {
-  pathPrefix: "/website",
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
